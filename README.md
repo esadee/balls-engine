@@ -5,9 +5,9 @@ Rules of the game are very simple.
 
 There is a square board of balls:<br/>
 
-  <code>O O O</code><br/><br/>
-  <code>O O O</code><br/><br/>
-  <code>O O O</code><br/><br/>
+  <code>O O O</code><br/>
+  <code>O O O</code><br/>
+  <code>O O O</code><br/>
   
 and two players.
 
@@ -26,7 +26,7 @@ etc.
 
 It is possible to cross out over crossed out balls:<br/>
   <code>O X O -> X X X</code> <br/>
-  <code>O O O -> O O O</code> <br/><br/>
-  <code>O O O -> O O O</code> <br/><br/>
+  <code>O O O -> O O O</code> <br/>
+  <code>O O O -> O O O</code> <br/>
   
 Who crosses out last ball, loses.
