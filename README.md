@@ -26,6 +26,3 @@ It is possible to cross out over crossed out balls:
   O O O    O O O
   
 Who cross out last ball, loses.
-
-
- 
