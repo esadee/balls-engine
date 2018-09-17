@@ -298,17 +298,16 @@ def loadTree():
     return root
         
 if __name__ == '__main__':
-
+	
     #size of board
-    n=4
+    n=3
 
     #default depth
-    i_depth = 5
+    i_depth = 4
 
     
     #1 = human, -1 = comp
-    i_curPlayer = -1
-    
+    i_curPlayer = -1    
     b1 = createboard(n)
     listofallmoves = allmoves(b1)
     
