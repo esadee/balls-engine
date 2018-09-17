@@ -5,7 +5,9 @@ Rules of the game are very simple.
 
 There is a square board of balls:
   O O O
+  
   O O O
+  
   O O O
 and two players.
 
